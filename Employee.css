@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(206, 142, 244);
+    text-align: center;
+}
+
+form{
+    text-align: justify;
+    margin-left: 40%;
+    margin-right: 35%;
+}
+
+#name{
+    font-weight: bold;
+}
+
+#email{
+    font-weight: bold;
+}
+
+#mob{
+    font-weight: bold;
+}
+
+#pass{
+    font-weight: bold;
+}
+
+error-output{
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}
